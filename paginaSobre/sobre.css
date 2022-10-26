@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css?family=Lexend+Deca&display=swap');
+
+body{
+    font-family: 'Lexend Deca', sans-serif;
+    background-color: black!important;
+    align-items: center;
+    text-align: center; 
+    color: white!important;
+    display: block;
+}
+body h2{
+    color: gold;
+}
+.titulo img{
+    align-items: center;
+    text-align: center; 
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+main{
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    text-align: justify;
+}
+main img{
+    width: 25%;
+    float: left;
+}
+.antagonista img{
+    width: 18%;
+    float: left;
+    margin-right: 55px;
+}
+.protagonista img{
+    width: 14%;
+    float: left;
+    margin-right: 85px;
+}
+.navbar{
+    text-align: center;
+    align-items: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+.navbar{
+    background-color: black;
+}
+.navbar a{
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    display: inline;
+}
+.italia{
+    margin-bottom: 195px;
+}
+.brasil{
+    margin-bottom: 215px;
+}
+.africa{
+    margin-bottom: 255px;
+}
+.cenarios img{
+    width: 40%;
+}
+.itens img{
+    width: 85%;
+}
