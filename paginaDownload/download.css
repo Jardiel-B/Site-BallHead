@@ -7,9 +7,6 @@ body{
     text-align: center; 
     color: white!important;
 }
-body h2{
-    color: gold;
-}
 .titulo img{
     align-items: center;
     text-align: center; 
@@ -34,6 +31,16 @@ body h2{
     text-decoration: none;
     display: inline;
 }
-.download h2{
+.download{
     text-align: center;
+}
+.download a{
+    color: gold;
+    font-size: 32px;
+}
+.download h2{
+    color: gold;
+}
+li{
+    list-style-type: none;
 }
